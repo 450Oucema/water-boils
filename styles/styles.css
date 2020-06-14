@@ -1,0 +1,23 @@
+.marmite {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 30%;
+}
+
+label {
+    color: white!important;
+    font-weight: bold;
+}
+
+.alert-success {
+    color: white;
+    background-color: #f84316;
+    border-color: transparent;
+  }
+  
+  .alert-info {
+    color: white;
+    background-color: #429bee;
+    border-color: transparent;
+  }
